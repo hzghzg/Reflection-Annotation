@@ -1,0 +1,4 @@
+#className : com.huangda7.reflectionandannotation.myAnnotation.entity.Bird
+#methodName: fly
+className : com.huangda7.reflectionandannotation.myAnnotation.entity.Fish
+methodName: swim
